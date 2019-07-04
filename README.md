@@ -11,3 +11,6 @@ Installation :
 
 Execution details :
           After installing the dependencies from requirements.txt, run command # python app.py
+Updates :
+	  This project was also taken forward and used for calculating probability of product purchase in future.
+
